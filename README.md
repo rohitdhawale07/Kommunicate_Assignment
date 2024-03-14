@@ -51,7 +51,7 @@ console.log(reverseNumber(987654321));
 ```
 
 ## Describing Best Project
-## Quiz Game App inspired KBC
+## Quiz Game App inspired by KBC
 #### Hosted Link:- https://quiz-kbc-git-main-rohit-dhawales-projects.vercel.app/
 [Hosted Link Here](https://quiz-kbc-git-main-rohit-dhawales-projects.vercel.app/)
 
